@@ -50,4 +50,4 @@ Example:
  
  More detailed commands can be found here : https://svn.code.sf.net/p/piskvork/code/trunk/source/doc/protocl2en.htm
 
-![Image description](/Users/gabriel/Downloads/39445047-08bf324c-4cba-11e8-894a-a361176376fa)
+![Image description](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwihxpuCjYvnAhWKsBQKHUfsCPcQjRx6BAgBEAQ&url=https%3A%2F%2Fgithub.com%2Fabarriel%2FGomoku&psig=AOvVaw13uHRxAP3kE5iFV0wNr_pD&ust=1579366546496154)
