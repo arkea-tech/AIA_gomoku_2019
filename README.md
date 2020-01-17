@@ -49,3 +49,4 @@ Example:
  ABOUT - Informations about the current player such as author, country, www, email etc...
  
  More detailed commands can be found here : https://svn.code.sf.net/p/piskvork/code/trunk/source/doc/protocl2en.htm
+
