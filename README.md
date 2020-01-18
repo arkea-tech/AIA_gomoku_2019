@@ -17,11 +17,8 @@ COMMANDS :
     TURN [X],[Y] - The parameters are coordinate of the opponent's move. All coordinates are numbered from zero.
 
     BOARD - This command imposes entirely new playing field. It is suitable for continuation of an opened match or for undo/redo user commands.
-    
     After this command the data forming the playing field are send. Every line is in the form: [X],[Y],[field]
-    
     where [X] and [Y] are coordinates and [field] is either number 1 (own stone) or number 2 (opponent's stone) or number 3      (only if continuous game is enabled, stone is part of winning line or is forbidden according to renju rules).
-    
     Then Data are ended by DONE command.
 
     INFO [key] [value] - Informations about the current game (time remaining in the game, time remaining for each moves...) :
